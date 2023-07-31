@@ -2,5 +2,5 @@
 
 - HTML Basic Syntax
 - HTML Headings and Paragraphs
-- HTML Formatting Elements
-- HTML Image and Links
+- HTML text Formatting Elements
+- HTML Attributes Image and Links
