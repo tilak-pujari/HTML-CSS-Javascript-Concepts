@@ -6,3 +6,5 @@
 - HTML text Formatting Elements
 - HTML Attributes Image and Links
 - HTML Tables: tr,td,th,tbody,cellpadding,cellspacing,border,height,width etc
+- HTML Unordered Ordered List: ul,ol,types,li
+- HTML Nested Lists
