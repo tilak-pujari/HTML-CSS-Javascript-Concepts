@@ -5,4 +5,4 @@
 - HTML Headings and Paragraphs
 - HTML text Formatting Elements
 - HTML Attributes Image and Links
-- HTML Tables
+- HTML Tables: tr,td,th,tbody,cellpadding,cellspacing,border,height,width etc
