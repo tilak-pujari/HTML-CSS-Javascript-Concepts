@@ -10,3 +10,19 @@
 - HTML Ordered List: ol,types=1,A,a,I,i ,start the count from anywhere
 - HTML Nested Lists  : combination of ul and ol
 - HTML Iframes
+
+
+
+
+"# JavaScript-Topics" 
+
+**Basics 1**
+- Print 'Javascript' in console
+- Types in Javascripts --> var,let,const
+- Method to know which type of data is stored in variable --> typeof()
+- Understanding variables and datatypes in Javascript
+- Operators arithmetic,assignment,logical
+- Loops --->while,do-while,for loop,    break,continue statement
+- Conditional Statements -->if,if-else,if-else if-else,nested if
+- Arrays Basic Syntax: methods to access,update,delete element from/to array
+
