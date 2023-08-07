@@ -22,7 +22,7 @@
         <input type="radio" id="gender" value="male" name="gender">Male</input>
         <input type="radio" id="gender" value="female" name="gender">Female</input>
         <input type="radio" id="gender" value="other" name="gender">Other</input>
-        
+
         <p>Color picker <input type="color"></p>
         <p>Date Picker <input type="date"> </p>
         <p>Date Picker with Time <input type="datetime-local"></p>
@@ -35,7 +35,10 @@
         <p>Pick Number : <input type="number"></p>
         <p>Pick Number from range : <input type="range"></p>
         <p>Search : <input type="search"></p>
-        <p>Telephone : <input type="tel"></p>
+   
+        <label for="phone">Enter your phone number:</label>
+        <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+
         <p>Write URL : <input type="url"> </p>
         <input type="checkbox">I have read and Accept terms and Conditions<br>
         <input type="reset">
