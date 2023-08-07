@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form 2</title>
+    <link rel="stylesheet" href="/CSS Topics/html.css">
+    </style>
+</head>
+<body>
+
+    <form action="/action_page.php">
+        <h1>Basic Registration Form-2</h1>
+
+        <label for="fname">First Name:</label>
+        <input type="text" id="fname" name="fname" placeholder="Enter First Name">        <br>
+        <label for="lname">Last Name:</label>
+        <input type="text" id="lname" name="lname" placeholder="Enter Last Name">        <br>
+      
+        <p><b>Single Select Dropdown</b></p>
+        <select id="topics">
+            <option selected>Select Topic from Options</option>
+            <option>HTML</option>
+            <option>CSS</option>
+            <option>JavaScript</option>
+        </select>
+       <p><strong>Multi Select Dropdown</strong></p>
+       <select id="Books" multiple="true">
+           <option selected>Select Books from Options</option>
+           <option>Java Fundamentals</option>
+           <option>Web Design</option>
+           <option>Python Django </option>
+       </select>
+       <br>
+        <input type="submit" value="Send">
+      </form>
+    </form>
+</body>
+</html>
