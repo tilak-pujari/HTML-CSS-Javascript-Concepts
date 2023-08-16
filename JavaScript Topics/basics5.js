@@ -33,3 +33,9 @@ subjects.pop()//(4) ['HTML', 'CSS', 'JavaScript', 'Python']
 //To Add value at the start of an Array
 subjects.unshift("Web Design")
 console.log(subjects)//(5) ['Web Design','HTML', 'CSS', 'JavaScript', 'Python']
+
+//to get index of an array elements
+console.log(subjects.indexOf("CSS"))
+
+//search 20 in b array
+console.log(b.includes(20))
