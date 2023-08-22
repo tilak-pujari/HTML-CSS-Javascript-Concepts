@@ -29,4 +29,5 @@
 - Loops --->while,do-while,for loop,    break,continue statement
 - Conditional Statements -->if,if-else,if-else if-else,nested if
 - Arrays Basic Syntax: methods to access,update,delete element from/to array
-
+- Different types of Arrays methods in javascript such  as length,indexOf,includes,slice,
+- filter,reduce,map functions
