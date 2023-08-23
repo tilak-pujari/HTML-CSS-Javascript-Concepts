@@ -18,4 +18,4 @@ let sumOfNums=(a,b)=>a+b
 //wrong way to use
 //console.log(sumOfNums)
 console.log(sumOfNums(5,8))
-console.log(sumOfTwo(5,8))
+console.log(sumOfTwo(5,8))git
