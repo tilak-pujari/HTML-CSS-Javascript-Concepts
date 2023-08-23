@@ -7,7 +7,7 @@ console.log(names)
 // var num=[12,25,45,65,32,11,21,77]
 // console.log(num.sort())
 //we cant sort numbers directly
-var num1=[012,25,45,65,32,9,02,77]
+var num1=[112,25,45,65,32,9,222,77]
 console.log(num1.sort())
 
 //Buble sort in recursive manner ascending order
