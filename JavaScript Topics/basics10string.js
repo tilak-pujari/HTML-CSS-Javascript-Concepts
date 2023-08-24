@@ -1,7 +1,6 @@
-//String manipulation methods
+//String manipulation methods in javascript
 
 let day="sunday "
-
 //to get length of string
 console.log(day.length)
 
@@ -45,7 +44,6 @@ console.log(newString.indexOf('day'))
 console.log(newString.indexOf('day',6))
 
 //write a program to check in 'sunday is first day' how many times 'day' occured
-
 let value=newString.indexOf('day')
 count=0
 while(value!=-1)
