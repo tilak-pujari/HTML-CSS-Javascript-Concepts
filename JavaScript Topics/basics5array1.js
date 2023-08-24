@@ -1,7 +1,3 @@
-/*  Arrays
-
-*/
-
 let a=Array(6)
 console.log(a)//6
 let b=new Array(20,54,45,78,42)

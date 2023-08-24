@@ -1,4 +1,3 @@
-
 var marks=[25,35,44,50,27,36,48]
 subArray=marks.slice(2,6)
 console.log(subArray)
