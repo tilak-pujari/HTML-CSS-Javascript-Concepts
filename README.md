@@ -31,3 +31,4 @@
 - Arrays Basic Syntax: methods to access,update,delete element from/to array
 - Different types of Arrays methods in javascript such  as length,indexOf,includes,slice,
 - filter,reduce,map functions
+- String manipulation methods
