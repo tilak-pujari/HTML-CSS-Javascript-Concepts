@@ -1,1 +1,1 @@
-//String manipulation
+//String manipulation methods
